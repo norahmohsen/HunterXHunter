@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hunter_Association">رابطة الصيّادين</string>
+    <string name="hunter_Bylaws_title1">قوانين الصيّادين</string>
+    <string name="hunter_Bylaws_title2">(ハンター十ヶ条)</string>
+    <string name="hunter_Bylaws_Bylaw_1">1. على الصيّاد أن يكون متأهبّا دومًا للاصطياد</string>
+    <string name="hunter_Bylaws_Bylaw_2">2. على الصيّاد أن يمتلك الحد الأدنى من الخبرة في الفنون القتالية. وذلك يتضمن النّين</string>
+    <string name="hunter_Bylaws_Bylaw_3">3.بمجرد حصول الصيّاد على رخصته لايمكنه إتلافها لأي سببٍ من الأسباب. ولايمكنه إعادة إصدارها </string>
+    <string name="hunter_Bylaws_Bylaw_4"> 4. على الصيّاد ألا يستهدف صيّادين آخرين إلا في حال كونهم مطلوبين للعدالة</string>
+    <string name="hunter_Bylaws_Bylaw_5">    5.يّعطى الصيّاد نجمة في حال توصل لإنجاز عظيم في مجال محدد</string>
+    <string name="hunter_Bylaws_Bylaw_6">6. يعطى الصياد نجمتين عند إتمام المهمّات الخمس وحصوله على منصبٍ رسميّ وأيضًا أن يدرّب صيّادًا مبتدئًا حائزًا على نجمة.</string>
+    <string name="hunter_Bylaws_Bylaw_7">7.يّعطى الصيّاد ثلاثة نجمات في حال توصل لإنجازات عظيمة في مجالات مختلفة، وأن يتمم ستّة مهمّات.</string>
+
+    <string name="login_userName">اسم الصيّاد</string>
+    <string name="login_userName_hint">أدخِل اسم الصيّاد</string>
+    <string name="login_pass">كلمة المرور</string>
+    <string name="login_pass_hint">أدخِل كلمة المرور</string>
+    <string name="login_">الدخول</string>
+    <string name="login_signup">لا تملك حسابًا؟</string>
+    <string name="login_error">خطأ!</string>
+    <string name="login_error_message">من فضلِك تأكد من إدخال اسم المستخدم وكلمة المرور الصحيحتين.</string>
+    <string name="login_error_ok">حسنًا</string>
+    <string name="login_error_ok_clicked">لنحاول مرةً أخرى!</string>
+    <string name="login_error_cancel">إلغاء</string>
+    <string name="login_error_cancel_clicked">للأسف اخترت الإلغاء.</string>
+    <string name="login_succ_message">رابطة الصيّادين ترحِّب بك!</string>
+</resources>

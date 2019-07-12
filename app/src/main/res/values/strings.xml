@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hunter_Association">Hunter Association</string>
+    <string name="hunter_Bylaws_title1">Hunter Bylaws</string>
+    <string name="hunter_Bylaws_title2">(ハンター十ヶ条)</string>
+    <string name="hunter_Bylaws_Bylaw_1">1.Hunters must always be on the hunt for something.</string>
+    <string name="hunter_Bylaws_Bylaw_2">2.Hunters must have a minimal understanding of martial arts. This includes learning Nen.</string>
+    <string name="hunter_Bylaws_Bylaw_3">3.Once a Hunter is licensed, that license cannot be revoked for any reason. However, a license will not be reissued for any reason.</string>
+    <string name="hunter_Bylaws_Bylaw_4">4.Hunters shall not target other Hunters unless they commit heinous crimes.</string>
+    <string name="hunter_Bylaws_Bylaw_5">5.One star is given to a Hunter who produces remarkable achievements in a particular field.</string>
+    <string name="hunter_Bylaws_Bylaw_6">6.Two stars are given to a Hunter who fulfills the Five Articles, holds an official position and has mentored a junior Hunter who is awarded a star.</string>
+    <string name="hunter_Bylaws_Bylaw_7">7.Three stars are given to a Hunter who fulfills the Six Articles and produces remarkable achievements in multiple fields.</string>
+    <string name="login_userName">UserName</string>
+    <string name="login_userName_hint">Enter your username</string>
+    <string name="login_pass">Password</string>
+    <string name="login_pass_hint">Enter your password</string>
+    <string name="login_">Login</string>
+    <string name="login_signup">Do not have Account?</string>
+    <string name="login_error">Error!</string>
+    <string name="login_error_message">Please make sure you have entered the right Password/Username.</string>
+    <string name="login_error_ok">Ok</string>
+    <string name="login_error_ok_clicked">Try Again</string>
+    <string name="login_error_cancel">Cancel</string>
+    <string name="login_error_cancel_clicked">You clicked on Cancel</string>
+    <string name="login_succ_message">Welcome To Hunter Association!</string>
+</resources>
